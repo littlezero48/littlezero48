@@ -27,7 +27,6 @@ Here are some ideas to get you started:
     백엔드 개발을 공부하고 있는 조소영입니다. <br>
     <br>
     <br>
-    -----------------------------------------
     <br>
     <br>
     :technologist: Tech Stack
@@ -50,7 +49,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
     <br>
     <br>
-    --------------------------- 
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlezero48&langs_count=5&layout=compact&theme=discord_old_blurple)](https://github.com/littlezero48/github-readme-stats)<br><br>
     ![littlezero48's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlezero48&theme=discord_old_blurple&show_icons=true)
 </div>
