@@ -1,6 +1,7 @@
 <div align=center> 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7188d9,100:9db8bc&height=300&section=header&text=Welcome&fontSize=70&fontColor=ffffff&descSize=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7188d9,100:9db8bc&height=300&section=header)
 </div>
+
 <!--
 **littlezero48/littlezero48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
