@@ -49,11 +49,10 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
     <br>
     <br>
-</div>
-
-<div align=center> 
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    ---
+    <br>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlezero48&layout=compact)](https://github.com/littlezero48/github-readme-stats)
+    [![littlezero48's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlezero48)](https://github.com/littlezero48/github-readme-stats)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6671ff,100:9695d0&height=150)
