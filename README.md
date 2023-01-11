@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center> 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlezero48&layout=compact&theme=discord_old_blurple)]<br><br>
-    ![littlezero48's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlezero48e&show_icons=true&theme=discord_old_blurpl)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6671ff,100:9695d0&height=150)
