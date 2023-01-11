@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center> 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlezero48&layout=compact&theme=discord_old_blurple)](https://github.com/littlezero48/github-readme-stats)<br><br>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlezero48&layout=compact&theme=discord_old_blurple)]<br><br>
     ![littlezero48's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlezero48e&show_icons=true&theme=discord_old_blurpl)
 </div>
 
