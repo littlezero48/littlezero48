@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6671ff,100:9695d0&height=300&text=Welcome&fontSize=70&fontColor=ffffff&desc=to%20littlezero48's%20Github&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6671ff,100:9695d0&height=200&text=Welcome&fontSize=70&fontColor=ffffff&desc=to%20littlezero48's%20Github&descAlign=70)
 
 <!--
 **littlezero48/littlezero48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 </div>
     <br>
     <br>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=littlezero48&layout=compact)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=littlezero48&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     <br>
-    ![littlezero48's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlezero48)
+    [![littlezero48's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlezero48)](https://github.com/anuraghazra/github-readme-stats)
     </br>
 
 
