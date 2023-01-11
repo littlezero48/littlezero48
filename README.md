@@ -35,6 +35,8 @@ Here are some ideas to get you started:
     <br>
 <br>
 
+---------------------------
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlezero48&langs_count=5&layout=compact)](https://github.com/littlezero48/github-readme-stats)</br>
 ![littlezero48's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlezero48&theme=vue&show_icons=true)
 </div>
