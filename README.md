@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 ![littlezero48's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlezero48&theme=vue&show_icons=true)
 </div>
 
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6671ff,100:9695d0&height=150)
