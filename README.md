@@ -1,6 +1,6 @@
 <div align=center> 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7188d9,100:9db8bc&height=300&section=header)
-
+</div>
 
 <!--
 **littlezero48/littlezero48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align=center> 
 <br>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -41,9 +41,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlezero48&langs_count=5&layout=compact)](https://github.com/littlezero48/github-readme-stats)</br>
 ![littlezero48's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlezero48&theme=vue&show_icons=true)
-
-
-
-<div align=center> 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7188d9,100:9db8bc&height=150&section=footer)
 </div>
+
