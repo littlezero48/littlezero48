@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7188d9,100:9db8bc&height=300&section=header&text=Welcome&fontSize=90&theme=discord_old_blurple)
-
+<div align=center> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7188d9,100:9db8bc&height=300&section=header&text=Welcome&desc=littlezero48's Github&fontSize=70&fontColor=ffffff&descSize=30&animation=fadeIn)
+</div>
 <!--
 **littlezero48/littlezero48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,4 +40,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlezero48&langs_count=5&layout=compact)](https://github.com/littlezero48/github-readme-stats)</br>
 ![littlezero48's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlezero48&theme=vue&show_icons=true)
+</div>
+
+
+<div align=center> 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7188d9,100:9db8bc&height=150&section=footer)
 </div>
