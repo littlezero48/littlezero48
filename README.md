@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slicewaving&color=0:7188d9,100:9db8bc&height=300)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7188d9,100:9db8bc&height=300)
+
 
 
 <!--
